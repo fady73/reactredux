@@ -1,1 +1,1 @@
-reactredux
+react-redux-next
